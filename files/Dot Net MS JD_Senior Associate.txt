@@ -1,0 +1,18 @@
+  Sure! Here is the list of main points for the provided PDF content:
+
+1. Experience with .NET development, including exception handling, serialization/deserialization, immutability, enums, collections, annotations, generics, autoboxing, multithreading, async/await, TPL, reactive programming, and concurrent collections.
+2. Knowledge of RDBMS and NoSQL databases, SQL queries, stored procedures, triggers, functions, ADO.NET/ORM frameworks, and messaging/data streaming platforms like RabbitMQ, ActiveMQ, and Kafka.
+3. Experience with cloud applications, including PaaS, SaaS, and IaaS options, and migrating on-prem applications to cloud platforms.
+4. Understanding of automated provisioning of cloud-based resources with appropriate access controls, and hands-on experience with scripting languages like PowerShell and Python.
+5. Familiarity with code build, test, quality check, and release tools like Git, MSTest, TFS, MSBuild, Jenkins/Bamboo/Octopus, and cloud devops tools.
+6. Experience with Microservices architecture and creating/consuming Microservices using .NET Core APIs.
+7. Experience with security, transaction, idempotency, log tracing, distributed caching, monitoring, and containerization requirements of Microservices.
+8. Experience with AJAX, JQuery, and at least one JavaScript framework (like Angular, React, etc.).
+9. Experience with writing Unit test cases using MSTest and mocking frameworks.
+10. Skilled/Experience in writing end-to-end automated tests using BDD frameworks like SpecFlow.
+11. Understanding and experience with application monitoring tools like New Relic, ELK stack, App Dynamics, or cloud monitoring tools.
+12. Hands-on experience in designing and developing enterprise logging and monitoring for cloud-native platforms.
+13. Hands-on experience with cloud platform storage services (object storage, data storage, file storage, etc.).
+14. Hands-on experience with cloud platform API Management Service.
+15. Hands-on experience with cloud platform Integration services like Azure.
+16. Experience in creating, deploying, config
