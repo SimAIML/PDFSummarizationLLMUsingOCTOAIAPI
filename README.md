@@ -8,9 +8,8 @@ This simple script will convert PDF files into summarized TXT files using AI. Th
 ## Getting Started
 1. Run `npm install` to install modules
 2. Place `.pdf` files in the `files` folder
-3. Rename `.env.example` to `.env`
-4. Signup [OctoAI](https://octo.ai/) and generate an API key to place in `.env` file
-5. Run `npm start` in the terminal
+3. Signup [OctoAI](https://octo.ai/) and generate an API key to place in `.env` file
+4. Run `npm start` in the terminal
 
 ## Dependencies
 - [OctoAI](https://octo.ai/) - AI Text and Image Generation
